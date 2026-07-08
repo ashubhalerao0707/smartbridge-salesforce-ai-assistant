@@ -1,0 +1,1240 @@
+
+Smartbridge experts in Salesforce and AI, Introductions
+0:02
+[Music]
+0:06
+um hello everyone um today uh Rajiv Amir
+0:10
+and I got together here for a quick chat
+0:13
+um on the artificial intelligence the
+0:17
+trends we are seeing in the industry and
+0:19
+especially in the Salesforce space um um
+0:22
+so before we get started let's quickly
+0:25
+introduce ourselves um I'm Vu Kari I'm a
+0:28
+director at smartbridge
+0:30
+I've been with the company for over 20
+0:32
+years um I lead the Salesforce and
+0:35
+integration um service lines here at
+0:37
+smart Bridge Raj you want to go next
+0:42
+sure uh hello everyone glad to be here
+0:45
+and then glad to also share our
+0:48
+insights and the intelligence as well
+0:52
+that we are uh collecting from various
+0:54
+clients of ours this is a very exciting
+0:57
+time where AI essentially is fueling
+1:00
+every business out there and every and
+1:03
+most of the companies are actually
+1:05
+capitalizing on that as well so before
+1:09
+that my background um I actually worked
+1:12
+in the industry uh energy utilities
+1:15
+leading AI Transformations for the
+1:17
+Enterprises and then um what I do at
+1:20
+smartbridge actually helps me take that
+1:23
+and then use it across various domains
+1:25
+so I'm serving as a managing director of
+1:28
+innovation and Analytics I work along
+1:30
+with venu to help our
+1:33
+clients and I have uh experience in data
+1:36
+science generative Ai and then also have
+1:39
+data engineering teams all of us work in
+1:41
+cohesion to help the clients to generate
+1:45
+AI
+1:47
+Solutions okay Amir I'll go ahead so hey
+1:51
+guys um again thank you for joining us
+1:53
+uh so I'm air so I'm the um I'm the
+1:57
+Salesforce manager over at smartbridge
+2:00
+um I've been with the company for about
+2:01
+five years now I think going over to my
+2:02
+sixth year at this point and glad to be
+2:05
+here and Amir is a Salesforce architect
+2:08
+and comes with a lot of Salesforce
+2:11
+experience and today's topic uh about AI
+2:15
+in Salesforce is of a lot of interest to
+2:17
+Amir so looking forward to talking to
+2:20
+him on that so let's let's start with um
+The Evolution of AI in Salesforce
+2:24
+the history a little bit um so my
+2:28
+first memory of talking about AI was
+2:33
+back in late 990s when I was still in
+2:35
+the college um one of my professors he
+2:39
+um wrote a paper about artificial
+2:41
+intelligence uh back then it was still
+2:43
+very academic uh we didn't even fully
+2:47
+comprehend all the applications of AI it
+2:50
+was a fancy topic and I said uh when I
+2:54
+go um into the industry I'm going to
+2:56
+work on AI but didn't do that for 20
+3:00
+years um and finally I'm excited we are
+3:02
+getting uh opportunities to work on AI
+3:06
+so
+3:07
+Salesforce um also uh has been thinking
+3:11
+about AI I know Salesforce started as a
+3:14
+CRM system based back in
+3:17
+9899 um and then it grew into a full-on
+3:20
+application development platform with
+3:23
+lot of um applications in different
+3:25
+areas and its AI Focus uh i' would say
+3:29
+started back in
+3:30
+2014 and it started acquiring um and
+3:34
+that has always been Salesforce strategy
+3:36
+whenever um they wanted to get into a
+3:38
+new space they would acquire a company
+3:41
+um always faster than growing
+3:43
+organically so between 2014 and 2016 17
+3:48
+um they've acquired three companies um
+3:51
+in Ai and data science space then
+3:54
+between 2018 and
+3:57
+2021 um it became more formal the
+4:00
+predictive AI capabilities were launched
+4:04
+um and more recently data Cloud um uh
+4:08
+was launched even though data cloud is
+4:10
+not technically an AI um initiative uh
+4:14
+but without the data AI is meaningless
+4:18
+right so that was part of Salesforce
+4:20
+strategy to get the data together so all
+4:23
+the Einstein's intelligence capabilities
+4:26
+are more effective and more meaningful
+4:29
+for of their business users and then
+4:33
+2022 onwards um Chad GPT came about um
+4:38
+after covid um and then sales forces
+4:41
+Focus also moved from predictive AI into
+4:45
+more generative AI um and lot of work
+4:48
+went into it and more recently Einstein
+4:51
+co-pilot launched um and that's when it
+4:54
+became official Salesforce product uh
+4:56
+generative AI space
+4:59
+so let's let's look at um Salesforce
+Salesforce's AI Capabilities
+5:05
+capabilities overall in the AI
+5:08
+space so the predictive AI we know we
+5:12
+have known about salesforce's predictive
+5:15
+capabilities for a while now if you
+5:17
+think AI a couple of years ago Einstein
+5:21
+came with all the predictive a
+5:23
+capabilities lot of research went into
+5:25
+it if someone is still not using
+5:28
+Salesforce predictive AI capabilities
+5:30
+you are losing out I would say um you
+5:32
+should try your best to use the AI
+5:36
+capabilities uh they are all around
+5:38
+sales Cloud um um mainly the Einstein's
+5:43
+activity capture feature all the scoring
+5:47
+capabilities whether it's lead scoring
+5:48
+or opportunity scoring that's um its AI
+5:52
+uh function and the next best best
+5:55
+action um so Salesforce has the ability
+5:58
+to suggest based on how the opportunity
+6:01
+is progressing has the ability to
+6:03
+suggest what can you do as a sales rep
+6:05
+to close this deal and the predictive
+6:08
+forecasting um you're looking at your
+6:11
+results from revenue and um uh closures
+6:15
+and see where you would end up at the
+6:17
+quarter um giving some Predictive
+6:19
+Analytics around it Salesforce does a
+6:21
+pretty good job in the sales Cloud area
+6:24
+uh with the predictive AI capabilities
+6:27
+and that has been there for a while and
+6:28
+lot of research went into it the
+6:31
+conversational AI um and generative AI
+6:35
+they are relatively new uh the on the
+6:37
+conversational AI Einstein now has
+6:40
+convers conversational mining capability
+6:43
+so that means it can look at all the
+6:45
+emails it can look at the conversations
+6:48
+from chat Bots and get allow you to
+6:51
+build reports um on on um and get you
+6:56
+deeper insights and Einstein chat I know
+7:00
+Amir has built chatbots here um and
+7:03
+he'll talk about it when in a few
+7:05
+minutes so Einstein Bots have been there
+7:08
+for a while um and also uh call
+7:11
+summaries so you have your calls you
+7:14
+document it um and then it can summarize
+7:17
+that for you very easily so around
+7:20
+conversations understanding email
+7:22
+exchanges chat messages and getting
+7:26
+insights out Salesforce has started
+7:28
+doing a very good job with those and the
+7:32
+newest kid in the block uh generative AI
+7:35
+um and they went back in Forth it was
+7:38
+called Einstein GPT when it was first
+7:41
+launched last year and now uh Salesforce
+7:44
+has settled on the brand name Einstein
+7:46
+co-pilot um and uh and co-pilot is
+7:50
+integrated with pretty much all sales
+7:53
+forces products at this point uh Sales
+7:55
+and Service have seen uh marketing um
+7:59
+cloud also has the ability to integrate
+8:01
+with Einstein cilet it gives you this
+8:04
+easy to use user
+8:06
+interface chatting style inter uh
+8:09
+interface where you can simply ask
+8:12
+Einstein some questions it can you can
+8:14
+ask it to um give you a personalized
+8:17
+close plan for an opportunity you can
+8:20
+ask it to research a customer and
+8:22
+account for you um so it it it is pretty
+8:27
+good um but before we go deep into
+8:29
+generative AI capabilities of
+8:32
+Salesforce um Rajiv here he has a lot of
+8:35
+uh experience in this area so Raju I'd
+8:38
+like to you to talk about what you're
+8:40
+seeing in the industry in general uh
+8:43
+with AI and especially generated
+AI Across Industries
+8:46
+AI
+8:48
+wonderful so uh first of all I have
+8:52
+pleasure of leading an amazing AI team
+8:54
+of practitioners full stack data
+8:57
+scientists and Engineers that build the
+8:59
+the Enterprise AI adoption at our
+9:02
+clients and then we also see how that's
+9:06
+helping these helping the businesses
+9:08
+transforming the businesses whether it
+9:09
+be intelligent customer
+9:11
+experiences or new class of products
+9:15
+that has been launched have been
+9:16
+launched over a past few years so the
+9:20
+way how I look at it is it it's a job
+9:23
+function based one way to look at it
+9:25
+would be how it's helping marketing how
+9:28
+it's helping sales how helping service
+9:30
+professionals
+9:31
+engineers and and how the overall base
+9:36
+model the foundational models and the
+9:40
+capabilities that were provided as a
+9:43
+result of it that is helping all these
+9:45
+job functions right so now there are
+9:47
+times where we actually suggest products
+9:49
+to them there are times where we build
+9:52
+Solutions um that can be a a
+9:55
+manufacturing client wanting to get
+9:58
+access to to the shop floor manuals or
+10:00
+the quality control
+10:02
+manuals uh within a minute for example
+10:05
+right or on the other side of the
+10:08
+spectrum or a different industry you
+10:10
+might be looking at a
+10:13
+qsr quick service restaurant industry
+10:16
+client who is trying to use the calls
+10:22
+that are coming into a service center
+10:24
+about faulty equipment you know and then
+10:27
+having the ability to transcribe typ the
+10:29
+call and then apply classic machine
+10:32
+learning to identify the uh solution
+10:36
+come up with optimal solution and then
+10:38
+give it back to the either the service
+10:42
+professional or or the end user itself
+10:44
+so these are again there are many many
+10:47
+many applications as I said it is
+10:49
+actually good penetrating into every job
+10:51
+function out there and these themes are
+10:54
+common across various
+10:56
+Industries but really over the La last
+11:00
+few years the pace of innovation is
+11:02
+rapidly increasing and then in fact the
+11:05
+technology was with the classic uh and
+11:08
+traditional AI I would say if you look
+11:10
+at the progress if it was at a 45 degree
+11:13
+with the generative AI it actually kind
+11:15
+of took that to even 80° or so right or
+11:19
+if not close to 90 Dees and and
+11:22
+obviously the businesses and the are
+11:25
+actually going at this pace so the Gap
+11:27
+per se that that existed in between
+11:30
+before
+11:31
+actually increased exponentially in some
+11:34
+aspects now our job here is to help
+11:37
+close that Gap uh make sure that we
+11:41
+provide Clarity education sessions put a
+11:44
+strategy together create a pilot and
+11:47
+then help them take this uh application
+11:50
+or a use case that led into something
+11:53
+usable usable product and then create
+11:57
+operations around it so they there is a
+12:00
+term llm Ops is a term that's kind out
+12:04
+there that leverages the llm uh out
+12:07
+large language models so that is the
+12:10
+journey uh that I talked about here so
+12:14
+the key is the approach that goes into
+12:18
+the uh into from the starting point of
+12:23
+being able to identify the use case all
+12:26
+the way to creating a business process
+12:29
+and then have consistency around using
+12:32
+this solution for this business process
+12:35
+that leverages generative AI for example
+12:38
+now what you see on U the obviously AI
+12:41
+is everywhere so for example a slide
+12:44
+here can also indicate all the way from
+12:47
+real estate agents to technology
+12:49
+Industries to advertising to
+12:53
+underwriting every industry every aspect
+12:55
+of it uh um is getting transformed
+13:00
+essentially so with that said there is
+13:04
+actually uh one more thing I want to add
+13:06
+we have obviously whenu hit on CH GPT
+13:10
+and then how it became came into
+13:12
+existence in the postco area right
+13:15
+2023 is when most of the folks heard
+13:18
+about it but when you step back and look
+13:20
+at the Journey of this or other
+13:23
+generative AI
+13:24
+applications in the market today there
+13:27
+are about there there are hundreds of
+13:31
+applications that are available in the
+13:33
+marketplace okay 100 plus applications
+13:37
+that people can buy and the journey of
+13:39
+these applications started somewhere
+13:41
+around in the pre-o area 2018
+13:44
+2019 really when the there were gpt1 GPT
+13:50
+2.0 was was actually being developed so
+13:53
+there was a journey for this GPT
+13:55
+applications and then obviously
+13:58
+technology industry was a bit ahead but
+14:00
+then when when there was an explosion of
+14:05
+the users getting on to char GPT that's
+14:07
+where everybody started to hear about it
+14:09
+but all in all my point is it has been
+14:11
+here for a few years and it has it is
+14:13
+being used by a lot of Industries and we
+14:16
+ourselves are actually seeing across
+14:19
+various Industries the use cases to Help
+14:22
+The Help The Business Leaders deliver
+14:26
+more whether it be customer experience
+14:28
+whether it be Revenue New Growth whether
+14:29
+it be business
+14:31
+optimization or some most of the times
+14:34
+it's a combination of all these three
+14:36
+and the resources that it takes to get
+14:39
+there are
+14:41
+probably half of what it typically takes
+14:45
+if you want to build something like this
+14:47
+so that's the potential here smarter
+14:49
+faster better essentially so with that
+14:53
+said uh let me hand it over back to venu
+14:57
+yep thank you Rajiv uh appreciate that
+The Importance of Trust in AI
+15:01
+so it it is now we are seeing all these
+15:04
+applications and it's very powerful and
+15:07
+everybody is talking about it but at the
+15:10
+same time you need to be careful about
+15:12
+it we need a system or a product that
+15:17
+you can
+15:18
+trust um so for example I I I read um a
+15:23
+few months back apparently there was
+15:25
+this case a personal injury case uh with
+15:29
+an airline company a few months back or
+15:32
+even last year where a lawyer a New York
+15:35
+based lawyer decided to use chat GPT to
+15:38
+prepare uh his legal response and uh he
+15:43
+uh used chat GPT and asked for citations
+15:46
+and chat GPT came back with six fake
+15:49
+citations so and because the data was
+15:52
+not grounded in reality the data was not
+15:54
+grounded in real um customer data there
+15:58
+so it came with six citations and uh he
+16:02
+used it in the legal response and uh he
+16:06
+received sanctions because the judge
+16:07
+didn't take that lightly the uh
+16:10
+obviously the defense attorneys pointed
+16:13
+out airline company pays good for their
+16:15
+lawyers so they uh they pointed out that
+16:19
+these cases don't exist anywhere in the
+16:21
+world so um they were asked to explain
+16:24
+and they didn't do a good job explaining
+16:26
+so they got fined
+16:29
+so what you have to be careful it cannot
+16:34
+be a chat GPT type um
+16:39
+um ungrounded solution any generative AI
+16:44
+an Enterprise uses any Genera VI
+16:47
+solution an Enterprise can use has to be
+16:50
+grounded in
+16:51
+reality so a simple question sent to llm
+16:55
+and getting a response will not cut it
+16:57
+it will not be suff efficient for an
+17:00
+Enterprise uh generative AI so there has
+17:04
+to be that's where Salesforce brings its
+17:07
+um what they call Einstein trust layer
+17:10
+so this layer any prompt any question
+17:13
+that is sent to the uh large language
+17:16
+model llm before llm can it do can do
+17:20
+its thing it has to
+17:22
+be qualified with the the the data has
+17:26
+to be grounded in case of any personally
+17:29
+identification uh identifiable data the
+17:32
+data needs to be masked um in case of um
+17:37
+medical device and Life Sciences
+17:38
+customers that I work with quite a bit
+17:41
+this becomes even more important you
+17:42
+don't want to send patient data out in
+17:45
+the cloud so this needs to be very
+17:47
+proper uh very carefully managed and llm
+17:52
+should not be retaining your data the
+17:54
+the the danger is in both ways you don't
+17:56
+want to be using fake data and you don't
+17:59
+want to be sending your customer data
+18:02
+out in the cloud so both both ways and
+18:05
+then sometimes llm can be toxic it can
+18:09
+give you um profanities or bad bad um
+18:14
+responses back the the the good
+18:19
+generative EI system needs to have the
+18:21
+capabilities to detect toxicity and
+18:23
+manage that so Einstein trust layer does
+Salesforce's AI Infrastructure
+18:26
+all of that very well um before it
+18:29
+interacts with llm um and gives the
+18:32
+response
+18:33
+back um so how does it do it so let's
+18:37
+look at the architecture published by
+18:39
+Salesforce on how Einstein one works and
+18:43
+it does it so what you don't see on the
+18:46
+slide here is it doesn't show the hyper
+18:48
+Force layer you must have heard a lot
+18:51
+about hyper Force um hyperforce is
+18:54
+basically leova um sorry the uh sales
+18:59
+forces public Cloud Network right it's
+19:04
+it's all in AWS now it's trusted and
+19:07
+then there is data Cloud sitting on top
+19:09
+of that where because the data that you
+19:12
+need for Genera eii to work correctly
+19:14
+may not all be in your CRM system the
+19:17
+data could be across the Enterprise so
+19:20
+Salesforce data Cloud helps you bring
+19:23
+all of that data together and feed it
+19:25
+into the model and then the
+19:29
+Salesforce has the ability to use uh it
+19:32
+has it comes with its own uh model but
+19:35
+also has the ability to use other models
+19:39
+um so the right model for the right task
+19:42
+is what Salesforce says so it allows you
+19:45
+to bring other uh it it uses other
+19:48
+models first of all Salesforce partners
+19:50
+with other model vendors to bring in the
+19:52
+right models and also allows us to use
+19:55
+our own custom model if required and
+19:58
+then on top of that model there is trust
+20:00
+layer um and we can customize the
+20:04
+capabilities with Einstein 1 Studio you
+20:06
+can BR build our own prompts and build
+20:09
+our own automations using flows and and
+20:13
+standard Salesforce automations and
+20:15
+finally expose all this functionality in
+20:17
+the user interface whether it be in
+20:20
+sales cloud service Cloud uh marketing
+20:22
+cloud or any other Salesforce products
+20:25
+so Einstein One packages all this
+20:27
+cleanly um brings in that Einstein trust
+20:31
+layer uh to um resolve some of the
+20:34
+challenges that we discussed in the
+20:36
+previous slide um and brings all the
+20:38
+Enterprise data together um so that's
+20:41
+that's that's what Salesforce brings to
+20:44
+the table um I let uh and all this is
+20:49
+exposed bya Einstein co-pilot Einstein
+Configuring Einstein Copilot
+20:51
+co-pilot is the heart of
+20:54
+how um Salesforce exposes generative AI
+20:57
+to its end user
+20:59
+so I let um Amir speak about Einstein
+21:02
+co-pilot some more in the detail Amir
+21:06
+thanks so so want to talk about what is
+21:09
+Einstein Co pilot like what does it do
+21:12
+so basically what it is in a nutshell so
+21:14
+Einstein co-pilot basically takes your
+21:16
+CRM data it evaluates it and gives you
+21:19
+meaningful information out of it in a
+21:21
+conversational form so think of think of
+21:24
+it asking hey I'm on this account record
+21:28
+and I want to know how it's doing in the
+21:29
+industry so you can go and in real time
+21:32
+get your information about it and then
+21:35
+in in a meaningful way so you can
+21:37
+interact with it um and then a lot of
+21:41
+people conf want to ask like how do you
+21:43
+configure Einstein in your system like
+21:45
+how does it get set up so Einstein
+21:49
+co-pilot is part of a package called
+21:51
+Einstein co-pilot Studio that's what you
+21:54
+use to start configuring the um the
+21:58
+component
+22:00
+and Ein copal studio is actually part of
+22:03
+three other items as well so you have
+22:05
+the The Prompt Builder so you use that
+22:08
+to to create your prompts on how you're
+22:10
+going to ask um your your questions or
+22:13
+how you going to communicate with uh the
+22:15
+co-pilot system um and with prompt
+22:18
+Builder you can make it a lot easier for
+22:20
+your users so you could say in a way
+22:22
+that you want to you want them to follow
+22:24
+a a tone that's approved by your
+22:27
+business so you build your prompt so in
+22:29
+such a way that your users they just
+22:31
+click on it and then add questions they
+22:33
+want to ask but it also keeps in touch
+22:37
+on the way you your business wants to
+22:39
+keep every conversation like how the the
+22:42
+uh it will generate response how it
+22:44
+brings it back to
+22:46
+use um also how in part of configurating
+22:51
+it also comes with actions so actions
+22:54
+defined on how what can the uh the AI
+22:57
+tool can what can a co-pilot do like in
+23:01
+certain cases we could say for example
+23:03
+um a user is wanting to get a status on
+23:06
+their order AI copilot uh sorry I
+23:10
+copilot could always say like I cannot
+23:12
+give you that information well that's
+23:14
+only because the action isn't there it
+23:16
+doesn't have access to that object so
+23:18
+that's where actions come into play like
+23:20
+what can it get what kind of information
+23:22
+can it get so you configure the prompts
+23:24
+you configure the
+23:25
+actions and with all that packaged in
+23:28
+you can um build your Einstein co-pilot
+23:31
+to work uh the way your business needs
+23:33
+so you control exactly um exactly the
+23:36
+information is providing um and it
+23:38
+doesn't get too much so again I think as
+23:40
+V also mentioned like patients are a big
+23:43
+one in terms of security so you don't
+23:44
+want the copal giving you sensitive
+23:47
+patient information back so that's where
+23:49
+again you use the actions uh U component
+23:52
+to control what it gets for
+23:55
+you moving on to some use cases I've
+23:58
+mentioned a couple right now in terms of
+24:00
+like um how a salesperson uses it but
+24:04
+you could say like um if a service user
+24:07
+is using co-pilot they can do the same
+24:09
+thing um they can ask about hey where is
+24:13
+this order for me and then what copal
+24:15
+could do is check your systems data and
+24:20
+if the information is not only in your
+24:21
+CRM it's actually in another application
+24:24
+and your copal is connected accordingly
+24:27
+it can go to that other appli
+24:28
+and get information back as well saying
+24:30
+okay we reviewed your CRM we reviewed
+24:33
+your other application based off all
+24:35
+that information here's where we got
+24:36
+back that okay this person's orders may
+24:39
+be delayed and we would propose this
+24:41
+response to them and then kind of help
+24:43
+you out and how to um work that
+24:47
+situation marketing could use copilot as
+24:49
+well so you could say like you have a
+24:52
+marketing campaign going on if you want
+24:53
+to reach out to certain type of
+24:55
+prospects what copal could do again with
+24:58
+the information it has on hand it could
+25:00
+say that with the list of prospects that
+25:02
+we have we say that the ones that are
+25:05
+bucketed in bucket a there's bucket B
+25:08
+well in this case it can also check to
+25:10
+see like at this point in time we don't
+25:12
+think this Prospect is good enough for
+25:14
+bucket B anymore they they actually are
+25:16
+a good Target for bucket a so it can a
+25:19
+actually help you decide where they
+25:21
+should they should fall using your data
+25:23
+and how it's changing so you don't have
+25:25
+to keep in touch with it at all
+25:27
+times in the then finally admins can use
+25:30
+a co-pilot as well and I would say me
+25:34
+that does a lot of configuration and
+25:36
+manage a lot of configuration it's a
+25:38
+really good tool to use um it it'll
+25:41
+allow you to do configure flows it'll
+25:43
+allow you to configure um you know your
+25:46
+U formulas so unless you read your
+25:49
+formulas and if you're not a developer
+25:51
+and you want to learn Cod pallet can
+25:53
+also make code for you so it can
+25:55
+actually help you learn and verify code
+25:57
+if you're experience developer and keep
+26:00
+you on track in where you are so it
+26:02
+helps everybody across the board so it's
+26:04
+really good to
+26:06
+have finally I'm going to touch up on
+26:09
+the licensing costs and how much it will
+26:12
+set it will set you on if you want to
+26:13
+get this so Einstein one sales there's
+26:17
+there's a package called Einstein one
+26:19
+sales or service Edition so basically
+26:21
+it's $5 $500 a month a user and it'll
+26:25
+give you full access to all the CH uh
+26:28
+the inside Co pilot features such as
+26:30
+chat Bots um the the whole Co pilot
+26:33
+package and everything you'll need so
+26:35
+you'll be basically all set to good to
+26:37
+go um but if you're an Enterprise or
+26:40
+unlimited user you can simply get the
+26:42
+add-on which is about $75 per user per
+26:45
+month and that will basically allow you
+26:48
+to just keep what licensing you have and
+26:50
+just get the add-on for
+26:52
+you and one final thing is before you
+26:55
+you want to say you want to like kind of
+26:57
+get a Hands-On feel uh before signing up
+27:00
+for anything Salesforce is currently
+27:02
+providing uh a Developer Edition for
+27:04
+Einstein co-pilot or the einin one
+27:06
+edition so it's only for five days but
+27:09
+it can get you good exposure on how the
+27:12
+tool works and get an idea before you
+27:14
+want to sign up for it so that's all I
+27:17
+have I'll go ahead and pass it back to
+27:18
+V all right Rajiv why don't you
+The Salesforce AI Journey Continues
+27:22
+summarize and close for
+27:24
+us awesome this is super exciting
+27:28
+conversation as you actually heard about
+27:31
+the AI from the Inception of it all the
+27:35
+way from 1990s to where we are today
+27:39
+where uh Ai and specifically generative
+27:42
+AI in combination with the traditional
+27:45
+AI is running the businesses across all
+27:49
+job functions right so all in all that
+27:52
+means AI is much bigger than the CRM
+27:56
+that was focus of the presentation
+27:58
+so what we essentially do is it's like a
+28:01
+fuel that runs the modern Enterprise
+28:04
+that actually shapes the businesses and
+28:06
+fuels these businesses for the future
+28:08
+growth like what I said before so um my
+28:12
+point here is as you look at the uh
+28:17
+usage of the data the intelligence and
+28:20
+and the application of AI across your
+28:22
+businesses let us help you in terms of
+28:25
+data governance education strategy and
+28:28
+also help you build this so-called llm
+28:32
+based operations right llm Ops um and
+28:36
+then um help you get to the next state
+28:39
+the future Brands as we say we are
+28:42
+planning to or we are uh building here
+28:46
+for small Bridge
+28:48
+customers excellent that's all I have
+28:50
+you all right thank you Rajiv and Amir
+28:53
+for your time and I hope uh it was a
+28:57
+good ation and uh people get something
+29:00
+out of this uh and like Rajiv said if
+29:02
+you have any further questions please uh
+29:05
+reach out to us thank you thank you
+29:09
+thank you
+29:11
+[Music]
+
